@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bio.link/dassomnath99](https://bio.link/dassomnath99)
 
-- 📫 How to reach me **somnathdas4462@gmail.com**
+- 📫 How to reach me **somnathdas4462@outlook.com.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
