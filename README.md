@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Disease Identification System**
 
-- 🌱 I’m currently learning **Scikit-learn**
+- 🌱 I’m currently learning **Statistics For Data Science**
 
 - 👨‍💻 All of my projects are available at [https://bio.link/dassomnath99](https://bio.link/dassomnath99)
 
