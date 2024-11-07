@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Real Estate Price Prediction Model**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **pandas, matplotlib, sklearn**
 
