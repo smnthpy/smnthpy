@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **pandas, matplotlib, sklearn**
 
-- 📫 How to reach me **somnathdas4462@outlook.com**
+- 📫 How to reach me **somnathdas8642@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
