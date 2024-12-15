@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dassomnath99&label=Profile%20views&color=0e75b6&style=flat" alt="dassomnath99" /> </p>
 
-- 🔭 I’m currently working on **Data Analysis with Car Dataset**
+- 🔭 I’m currently working on [Data Analysis with Taxi-price-prediction](https://www.kaggle.com/datasets/denkuznetz/taxi-price-prediction/data?select=taxi_trip_pricing.csv)
 
 - 🌱 I’m currently learning **sklearn**
 
@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dassomnath99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dassomnath99" height="30" width="40" /></a>
+<a href="https://kaggle.com/somnathdas8642" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="somnathdas8642" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dassomnath99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dassomnath99" height="30" width="40" /></a>
 </p>
 
