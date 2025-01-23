@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Data Analysis with Taxi-price-prediction](https://www.kaggle.com/datasets/denkuznetz/taxi-price-prediction/data?select=taxi_trip_pricing.csv)
 
-- 🌱 I’m currently learning **sklearn**
+- 🌱 I’m currently learning **Neural Network**
 
 - 💬 Ask me about **machine learning and ai**
 
