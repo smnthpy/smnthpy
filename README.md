@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somnath Das</h1>
-<h3 align="center">An Aspiring Data Scientist</h3>
+<h3 align="center">Python, Machine Learning, and Data Visualization expertise.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dassomnath99&label=Profile%20views&color=0e75b6&style=flat" alt="dassomnath99" /> </p>
 
