@@ -30,8 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dassomnath99&show_icons=true&locale=en&layout=compact" alt="dassomnath99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dassomnath99&show_icons=true&locale=en" alt="dassomnath99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dassomnath99&" alt="dassomnath99" /></p>
-### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
