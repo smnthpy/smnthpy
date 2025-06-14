@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Sentry Error Reporting**
 
-- - 🏗️ I’m currently building **JeetoAI**
+- 🏗️ I’m currently building **JeetoAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dassomnath99](https://github.com/dassomnath99)
 
