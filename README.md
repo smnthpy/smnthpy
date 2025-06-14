@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **Sentry Error Reporting**
+
+- - 🏗️ I’m currently building **JeetoAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dassomnath99](https://github.com/dassomnath99)
 
