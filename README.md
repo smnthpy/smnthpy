@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [JeetoAI](https://github.com/dassomnath99/JeetoAi)
 
-- 🌱 I’m currently learning **Sentry Error Reporting**
+- 🌱 I’m currently learning **Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dassomnath99](https://github.com/dassomnath99)
 
