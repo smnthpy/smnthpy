@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dassomnath99](https://github.com/dassomnath99)
 
-- 📝 I regularly write articles on [https://dev.to/dassomnath99](https://dev.to/dassomnath99)
-
 - 💬 Ask me about **django, pandas, scikit-learn**
 
 - 📫 How to reach me **somnathdas4462@gmail.com**
@@ -17,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dassomnath99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dassomnath99" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dassomnath99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dassomnath99" height="30" width="40" /></a>
 </p>
 
