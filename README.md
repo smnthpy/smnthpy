@@ -55,7 +55,7 @@
 ### 📊 Kaggle Stats
 
 <p align="center">
-  <a href="https://www.kaggle.com/dassomnath99" target="_blank">
-    <img src="https://kaggle-readme-stats.vercel.app/api/profile?username=dassomnath99&theme=light" alt="Kaggle Profile Stats" />
+  <a href="https://www.kaggle.com/somnathdas8642" target="_blank">
+    <img src="https://kaggle-readme-stats.vercel.app/api/profile?username=somnathdas8642&theme=light" alt="Kaggle Profile Stats" />
   </a>
 </p>
