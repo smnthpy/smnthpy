@@ -51,3 +51,4 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/dassomnath99?theme=light&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
 </p>
+![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/dassomnath99&color=orange)
