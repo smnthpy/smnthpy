@@ -51,3 +51,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/dassomnath99?theme=light&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
 </p>
+
+### 📊 Kaggle Profile
+<p align="center"> <a href="https://www.kaggle.com/dassomnath99" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-View%20Profile-blue?style=for-the-badge&logo=kaggle" alt="Kaggle Profile Badge"/> </a> </p>
