@@ -54,4 +54,4 @@
 
 ### 📊 Kaggle Stats
 
-<p align="center"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dassomnath99/competitions" alt="Competitions Badge" /> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dassomnath99/datasets" alt="Datasets Badge" /> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dassomnath99/notebooks" alt="Notebooks Badge" /> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dassomnath99/discussion" alt="Discussion Badge" /> </p>
+<p align="center"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/somnathdas8642/competitions" alt="Competitions Badge" /> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/somnathdas8642/datasets" alt="Datasets Badge" /> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/somnathdas8642/notebooks" alt="Notebooks Badge" /> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/somnathdas8642/discussion" alt="Discussion Badge" /> </p>
