@@ -54,4 +54,4 @@
 
 ### 📊 Kaggle Stats
 
-<p align="center"> <a href="https://www.kaggle.com/somnathdas8642"> <img src="https://img.shields.io/badge/Kaggle-Somnath%20Das-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/> </a> </p> <p align="center"> <a href="https://www.kaggle.com/somnathdas8642"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/somnathdas8642/competition" alt="Kaggle Competition Badge"/> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/somnathdas8642/dataset" alt="Kaggle Dataset Badge"/> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/somnathdas8642/notebook" alt="Kaggle Notebook Badge"/> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/somnathdas8642/discussion" alt="Kaggle Discussion Badge"/> </a> </p>
+<p align="center"> <a href="https://www.kaggle.com/somnathdas8642"> <img src="https://img.shields.io/badge/Kaggle-Somnath%20Das-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/> </a> </p>
