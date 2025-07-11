@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somnath Das</h1>
 <h3 align="center">A Passionate Python Developer</h3>
 
-<hr>
-
 - 🔭 I’m currently working on [**JeetoAI**](https://github.com/dassomnath99/JeetoAi)  
 - 🌱 I’m currently learning **Algorithms**  
 - 👨‍💻 All of my projects are available at [**My GitHub**](https://github.com/dassomnath99)  
@@ -10,7 +8,6 @@
 - 📫 Reach me at: **somnathdas4462@gmail.com**  
 - 📄 [**View My Resume**](https://drive.google.com/file/d/1L7lb8sPEjffzt0h2B3YWro8L458gpOAE/view?usp=sharing)
 
-<hr>
 
 ### 🌐 Connect with me:
 <p>
@@ -18,8 +15,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
   </a>
 </p>
-
-<hr>
 
 ### 🛠️ Languages and Tools:
 <p>
@@ -37,15 +32,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
 </p>
 
-<hr>
-
-
-### 📈 LeetCode Stats
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/dassomnath99?theme=light&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
 </p>
-
-### 📊 Kaggle Stats
-
 <p align="center"> <a href="https://www.kaggle.com/somnathdas8642"> <img src="https://img.shields.io/badge/Kaggle-Somnath%20Das-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/> </a> </p>
