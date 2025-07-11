@@ -41,7 +41,7 @@
 
 ### 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dassomnath99&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/dassomnath99?theme=light&font=ABeeZee&ext=heatmap)
 </p>
 
 <hr>
