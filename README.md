@@ -39,17 +39,11 @@
 
 <hr>
 
-### 📊 GitHub Stats:
-<p>
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/dassomnath99?theme=light&font=ABeeZee&ext=heatmap)
-</p>
-
-<hr>
 
 ### 📈 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/dassomnath99?theme=light&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/dassomnath99?theme=light&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ### 📊 Kaggle Stats
