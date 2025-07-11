@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Somnath Das</h1>
 <h3 align="center">A Passionate Python Developer</h3>
 
-- 🔭 I’m currently working on [**JeetoAI**](https://github.com/dassomnath99/JeetoAi)  
+- 🔭 I’m currently working on [**JeetoAI**](https://github.com/smnthpy/JeetoAi)  
 - 🌱 I’m currently learning **Algorithms**  
-- 👨‍💻 All of my projects are available at [**My GitHub**](https://github.com/dassomnath99)  
+- 👨‍💻 All of my projects are available at [**My GitHub**](https://github.com/smnthpy)  
 - 💬 Ask me about **Django, Pandas, Scikit-learn**  
 - 📫 Reach me at: **somnathdas4462@gmail.com**  
 - 📄 [**View My Resume**](https://drive.google.com/file/d/1L7lb8sPEjffzt0h2B3YWro8L458gpOAE/view?usp=sharing)
