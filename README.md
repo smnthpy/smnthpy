@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Fixing Online Marketplace](https://github.com/smnthpy/Online-Marketplace)
 
-- 👨‍💻 All of my projects are available at [https://github.com/dassomnath99](https://github.com/dassomnath99)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/dassomnath99) && [Kaggle](https://www.kaggle.com/somnathdas8642)
 
 - 💬 Ask me about **django, pandas, scikit-learn**
 
