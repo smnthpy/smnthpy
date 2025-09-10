@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/smnthpy" target="blank"><img src="https://img.shields.io/twitter/follow/smnthpy?logo=twitter&style=for-the-badge" alt="smnthpy" /></a> </p>
 
-- 🔭 I’m currently working on [Fixing Online Marketplace](https://github.com/smnthpy/Online-Marketplace)
+- 🔭 I’m currently working on [Plant Pathalogy 2021](https://www.kaggle.com/competitions/plant-pathology-2021-fgvc8)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/smnthpy) && [Kaggle](https://www.kaggle.com/somnathdas8642)
 
